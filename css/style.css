@@ -1,0 +1,155 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #2A5260;
+}
+header{
+    margin-top: -8px;
+}
+
+/********************
+Styling of navbar area
+*********************/
+.logo img{
+    width: 100%;
+    height: 35px;
+}
+.collapse ul.navbar-nav li a{
+    font-size: 20px;
+    text-transform: uppercase;
+    display: block;
+    color: #5E5674!important;
+}
+.collapse ul li a:hover{
+    background: #FFA500;
+    color: #ffffff!important;
+}
+
+li.nav-item {
+    margin-right: 6px;
+}
+
+/*********************
+Styling of banner area
+**********************/
+#banner img{
+    width: 100%;
+    height: auto;
+    margin-top: -8px;
+}
+
+/***********************
+Start of latest course area
+**********************/
+#latest-course{
+    padding: 50px 0;
+}
+#latest-course h5{
+    color: #FFA500;
+    text-transform: uppercase;
+    font-weight:bolder;
+}
+.card {
+    margin: 20px;
+    border: none;
+    box-shadow: -1px 2px 5px #888888;
+}
+.card img {
+    height: 250px;
+}
+button.btn.btn-warning {
+    color: #fff;
+}
+
+/*******************
+Start of footer area
+********************/
+footer{
+    background: #436392;
+    text-align: center;
+    color: #ECF4FA;
+    padding: 10px 0;
+}
+.copyright{
+    color: #DEC87A;
+}
+
+
+/*******************************************************
+****************************************************
+Add of about page styling
+****************************************************
+********************************************************/
+#about{
+    padding: 20px 0;
+}
+.programmer img {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: -35%;
+}
+.programmer {
+    padding: 100px 0 50px 0;
+}
+.programmer .card {
+    width: 260px;
+    height: 170px;
+}
+
+
+/*******************************************************
+****************************************************
+Add of slider page styling
+****************************************************
+********************************************************/
+#content{
+    padding: 50px 0;
+}
+div#next {
+    position: absolute;
+    right: 50px;
+    top: 45%;
+    font-size: 50px;
+    color: #fff;
+    z-index: 10;
+    cursor: pointer;
+}
+div#prev {
+    position: absolute;
+    left: 50px;
+    top: 45%;
+    font-size: 50px;
+    color: #fff;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/*****************************
+End of Slider area
+*****************************/
+
+/*******************************************************
+****************************************************
+Add of contact page styling
+****************************************************
+********************************************************/
+
+form {
+     box-shadow: -1px 2px 5px #888888;
+    padding: 20px;
+    margin: 50px;
+}
+form button.btn.btn-primary {
+    background: #FFA500;
+    border: 1px solid #FFA500;
+    color: #fff;
+    margin-top: 15px;
+}
+
+
+
+
+
+
